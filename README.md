@@ -55,16 +55,6 @@ Personal Task Tracker is a simple, responsive web application built with React.j
 
 [View the deployed app here](https://task-flow-five-silk.vercel.app/)
 
-## 🖼 Screenshots
-
-### Dashboard (Desktop)
-![Dashboard Screenshot](<img width="1470" alt="Screenshot 2025-07-03 at 10 58 46 PM" src="https://github.com/user-attachments/assets/38f3aa76-d4aa-4af9-856a-917ec2b549a6" />
-)
-
-### Mobile View
-![Mobile Screenshot](<img width="1470" alt="Screenshot 2025-07-03 at 10 58 46 PM" src="https://github.com/user-attachments/assets/2cecfd63-3657-494d-ad35-9fce891dbe5b" />
-)
-
 ## 📦 Project Structure
 
 ```
