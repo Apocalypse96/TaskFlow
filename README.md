@@ -109,18 +109,3 @@ const sampleTasks = [
   }
 ];
 ```
-
-## 📝 Credits
-
-- Assignment by [Your Company/Interviewer]
-- Developed by [Your Name]
-
-## 🪪 License
-
-This project is licensed under the MIT License.
-
----
-
-**Tips:**  
-- For Markdown formatting help, see the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)  
-- For more README inspiration, check [READMEhowto](https://github.com/Tinymrsb/READMEhowto) and [how_to_make_README.md](https://github.com/khodekhadem/how_to_make_README.md) 
