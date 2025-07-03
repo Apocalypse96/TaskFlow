@@ -31,8 +31,8 @@ Personal Task Tracker is a simple, responsive web application built with React.j
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-task-tracker.git
-   cd personal-task-tracker
+   git clone https://github.com/Apocalypse96/TaskFlow.git
+   cd TaskFlow
    ```
 2. Install dependencies:
    ```bash
@@ -40,9 +40,9 @@ Personal Task Tracker is a simple, responsive web application built with React.j
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev 
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🧰 Technologies Used
 
